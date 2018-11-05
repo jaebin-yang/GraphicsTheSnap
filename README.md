@@ -1,1 +1,1 @@
-# GraphicsTheSnap
+# The Snap
